@@ -1,0 +1,6 @@
+com\AI\adoptions\DogAdoptionScheduler.class
+com\AI\adoptions\DogRepository.class
+com\AI\adoptions\AppConfig.class
+com\AI\adoptions\Dog.class
+com\AI\adoptions\AdoptionsApplication.class
+com\AI\adoptions\AdoptionsController.class
